@@ -39,7 +39,7 @@ const Navbar = () => {
                     <li><Link href="/project " className='hover:border-b-[1px] active:text-gray-300'>Projects</Link></li>
                     <li><Link href="/contact" className='hover:border-b-[1px] active:text-gray-300'>Contact</Link></li>
                 </ul>
-                <h1 className={`${lobster.className} text-2xl  sm:hidden text-transparent bg-clip-text bg-gradient-to-r from-[maroon] to-[gold] pl-3`}>Zain</h1>
+                <h1 className={`${lobster.className} text-2xl  sm:hidden text-transparent bg-clip-text bg-gradient-to-r from-[maroon] to-[gold] pl-3`}>Shafaque Anees</h1>
                 <div className=''>
                     <Link href='/'><Image src="/dp0.jpg" alt="logo" width={500} height={500} title="logo" className='w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 rounded-[50%] hidden sm:block'></Image></Link>
                 </div>
